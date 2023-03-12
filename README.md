@@ -3,7 +3,8 @@
 <h2>👨‍💻 Recent Development Projects:</h2>
 
 - <b>Los Secretos de Akerthy - 2D Platformer</b>
-  - [Main character movement](AquiLink)
+  - [Check out the innards of the game!](https://github.com/HapDoesThings/Los-Secretos-de-Akerthy)
+  - [You can play it here!](https://github.com/HapDoesThings/Los-Secretos-de-Akerthy)
 
 <h2> 🤳 You can find me at:</h2>
 
