@@ -4,7 +4,7 @@
 
 - <b>Los Secretos de Akerthy - 2D Platformer</b>
   - [Check out the innards of the game!](https://github.com/HapDoesThings/Los-Secretos-de-Akerthy)
-  - [You can play it here!](https://github.com/HapDoesThings/Los-Secretos-de-Akerthy)
+  - [You can play it here!](https://hapdoesthings.itch.io/los-secretos-de-akerthy)
 
 <h2> 🤳 You can find me at:</h2>
 
