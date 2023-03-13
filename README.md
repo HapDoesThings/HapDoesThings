@@ -6,6 +6,9 @@
   - [Check out the innards of the game!](https://github.com/HapDoesThings/Los-Secretos-de-Akerthy)
   - [You can play it here!](https://hapdoesthings.itch.io/los-secretos-de-akerthy)
 
+- <b>Some tests I do either for class or my own development</b>
+  - [Here yo ucan check them out](https://github.com/HapDoesThings/Test)
+
 <h2> 🤳 You can find me at:</h2>
 
 [<img align="left" alt="AlexHap | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
